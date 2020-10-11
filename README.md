@@ -16,7 +16,7 @@
 - 🔭 I’m Professional front end Developer
 - 🌱 I’m currently using Angular and React/React Native
 - 👯 I’m looking to collaborate on React Native, Angualar and Nodejs
-- 🤔 I’m looking for help with 
+- 🤔 I’m currently learing and looking for help with flutter
 - 💬 Ask me about any fornt end issue related to Javascript frameworks like Angular and React
 - 📫 How to reach me: grv341@gmail.com
 - ⚡ Fun fact: JavaScript is supported by all modern Web browsers with the built-in interpreters.
