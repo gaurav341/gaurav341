@@ -33,14 +33,12 @@
 #### Frameworks I have used
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=ReactNative)
+![ReactNative](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
-![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
 
 
